@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1500&color=22779C&background=FFC74C00&center=true&width=435&lines=Ol%C3%A1%2C+Sou+Kau%C3%AA+de+Oliveira;Desenvolvedor+em+Forma%C3%A7%C3%A3o%F0%9F%92%BB;&center=false&SSempre+em+busca+de+Novos+Aprendizados!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1500&color=22779C&background=FFC74C00&center=false&width=435&lines=Ol%C3%A1%2C+Sou+Kau%C3%AA+de+Oliveira;Desenvolvedor+em+Forma%C3%A7%C3%A3o%F0%9F%92%BB;Sempre+em+busca+de+Novos+Aprendizados!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=9999&color=22779C&background=FFC74C00&width=435&lines=---------------------------------------------------------------------)](https://git.io/typing-svg)
 
