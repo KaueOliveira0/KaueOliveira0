@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=9999&color=22779C&background=FFC74C00&width=435&lines=---------------------------------------------------------------------)](https://git.io/typing-svg)
 
 
-👨‍💻 Sobre Mim
+👨‍💻 # Sobre Mim
 
 Olá, Sou Kauê de Oliveira Estudante de Sistemas de Informação e apaixonado por Programação desde pequeno. Tenho interesse em desenvolvimento de software, análise de dados, suporte a sistemas, Redes de Computadores e Banco de Dados!
 
